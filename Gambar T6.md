@@ -1,11 +1,4 @@
-![Gambar 1](Screenshot%202026-10-13%20095733.png)
-![Gambar 2](Screenshot%202026-10-13%20095715.png)
-![Gambar 3](Screenshot%202026-10-13%20095704.png)
-![Gambar 4](Screenshot%202026-10-13%20095655.png)
-![Gambar 5](Screenshot%202026-10-13%20095636.png)
-![Gambar 6](Screenshot%202026-10-13%20095604.png)
-![Gambar 7](Screenshot%202026-10-13%20095556.png)
-![Gambar 8](Screenshot%202026-10-13%20095543.png)
-
-
-![Gambar Tambahan](09649e9e-c0a7-4551-8911-4707d9049fc)
+![Gambar 1](09649e9e-c0a7-4551-8911-4707d9049fc6.jpg)
+![Gambar 2](200fb755-8bca-4177-91a2-f28191411d6e.jpg)
+![Gambar 3](3dd55b47-c43b-4eb0-ba1b-fd68f7816438.jpg)
+![Gambar 4](65d7738c-f3aa-4af3-a7d0-ff9b22f11ee2.jpg)
