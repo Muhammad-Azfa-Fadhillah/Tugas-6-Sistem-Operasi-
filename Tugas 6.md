@@ -1,4 +1,4 @@
-Tugas Praktikum 5: Sistem Operasi
+Tugas Praktikum 6: Sistem Operasi
 
 Nama : Muhammad Azfa Fadhillah
 
